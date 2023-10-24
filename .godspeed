@@ -1,0 +1,22 @@
+{
+  "mongodb": {
+    "mode": "single",
+    "dbName": "godspeed",
+    "ports": [
+      27017
+    ]
+  },
+  "postgresql": false,
+  "kafka": false,
+  "elasticsearch": false,
+  "redis": false,
+  "servicePort": 3000,
+  "gsNodeServiceVersion": "latest",
+  "projectName": "hari",
+  "meta": {
+    "createTimestamp": "2023-10-24T07:09:27.725Z",
+    "lastUpdateTimestamp": "2023-10-24T07:09:27.725Z",
+    "cliVersionWhileCreation": "2.7.7",
+    "cliVersionWhileLastUpdate": "2.7.7"
+  }
+}
